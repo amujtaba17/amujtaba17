@@ -59,6 +59,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/amujtaba17/amujtaba17/output/snake.svg" alt="Snake animation" />
 
 ###
