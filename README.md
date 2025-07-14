@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Ahmed Mujtaba and I'm a Programmer/Developer from Hyderabad,Sindh</p>
+<p align="center">My name is Ahmed Mujtaba Jawad/p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning PHP/Laravel<br>🎯 Goals: Full Stack web developer<br>🎲 Fun fact: Like to explore more n more tech stacks</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 BCS, University of Sindh<br>🎯 Goals: Full Stack web developer<br>🎲 Fun fact: Like to explore more n more tech stacks</p>
 
 ###
 
