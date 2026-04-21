@@ -46,7 +46,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ahmed-mujtaba-jawad-7a1b4722a/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-mujtaba-j-342335345/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/Jawadmemon17/" target="_blank">
